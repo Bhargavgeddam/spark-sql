@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Feb 08 18:34:54 IST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0161-7584-cf73-000006a06cf0 
+on database directory C:\Users\AF58733\AppData\Local\Temp\1\spark-3d03eba4-f855-4527-8549-bc1a1c1ecbed\metastore with class loader sun.misc.Launcher$AppClassLoader@c387f44 
+Loaded from file:/C:/Users/AF58733/.m2/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_45-b15
+user.dir=C:\Users\AF58733\workspace\sample
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
